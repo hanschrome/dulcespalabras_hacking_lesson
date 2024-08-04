@@ -7,7 +7,7 @@ import requests
 url = 'https://dulcespalabras.com/api/user/mia-data'
 
 headers = {
-    'Authorization': 'Bearer 2bc15e99-6b57-41d4-babe-d5085a6cf22d'
+    'Authorization': 'Bearer ee4d4a28-4aa3-4058-93a7-c9150fa39a0c'
 }
 
 response = requests.post(url, headers=headers)
